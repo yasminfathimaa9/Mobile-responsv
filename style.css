@@ -31,7 +31,7 @@
     position:absolute;
     top:90px;
     width:120%;
-    height: 50vh;
+    height: 40vh;
 }
 .button1
 {
@@ -131,8 +131,6 @@
 }
  @media screen and (min-width: 1066px) {
 
-    
-   
      
         
     .image1
@@ -245,8 +243,8 @@
     position: absolute;
     left:230px;
    }
-   .fa-bars {
+    .fa-bars {
 
-    display: none;
+    display: none; 
 }
 } 
