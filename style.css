@@ -31,7 +31,7 @@
     position:absolute;
     top:90px;
     width:120%;
-    height: 40vh;
+    height: 30vh;
 }
 .button1
 {
@@ -131,7 +131,10 @@
 }
  @media screen and (min-width: 1066px) {
 
-     
+    .fa-bars:before {
+        content: "\f0c9";
+        display: none;
+    }
         
     .image1
     {
@@ -243,8 +246,5 @@
     position: absolute;
     left:230px;
    }
-    .fa-bars {
-
-    display: none; 
-}
+  
 } 
